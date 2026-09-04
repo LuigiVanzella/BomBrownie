@@ -51,6 +51,7 @@ header.scrolled {
 .logo img {
     height: 50px;
     border-radius: 50%; /* Como a logo é redonda */
+    margin-right: 20px
 }
 
 nav ul {
